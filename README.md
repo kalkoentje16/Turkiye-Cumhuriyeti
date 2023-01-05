@@ -4,7 +4,7 @@
 
 ### A1 - Validity
 
-1. In the event of a change in legislation after the time when the offence was committed, the most favourable provisions for the suspect will be applied.
+1. In the event of a change in a law after the time when the offence was committed, the most favourable provisions for the suspect will be applied.
 2. An officer is not allowed to decide on a matter that concerns themselves, friends and/or family. This is to reinforce that a case is handled in a fair and righteous manner.
 
 ### A2 - Clarification & General Addition
@@ -16,7 +16,6 @@
 1. Penalties are set and included per article. These include:
     * Warnings
     * Jail Punishment
-    * Seizures
 2. An imposed penalty can be a combination of the above types of penalties.
 3. An imposed penalty is never higher than the established values.
 4. A penalty can be increased by accumulating offences.
