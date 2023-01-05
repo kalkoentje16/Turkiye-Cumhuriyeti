@@ -96,3 +96,39 @@
 |  **First Conviction** | 1 hours |
 | **Second Conviction**  | 3 hours |
 | **Third Conviction**  | 6 hours |
+
+## Title IV - Property Crimes
+
+### Article IV-1 Theft
+
+1. Guilty is a person who takes away a good or vehicle without permission or having any right to do so.
+2. In the case of an attempted theft, the maximum sentence to be imposed is 33% of the full sentence.
+
+|   | **Jail Time**  | **-33%** |
+|---|---|---|
+|  **First Conviction** | 3 hours | 2 hours |
+| **Second Conviction**  | 6 hours | 4 hours |
+| **Third Conviction**  | 10 hours | 7 hours |
+
+### Article IV-2 Theft with violence
+
+1. Guilty is a person who takes away a good without permission or having any right to do so, using violence in any form.
+2. Said violence was used during preparation, theft, or escape.
+3. In the case of an attempted theft with violence, the penalty is reduced by 33%.
+
+|   | **Jail Time**  | **-33%** |
+|---|---|---|
+|  **First Conviction** | 8 hours | 5.5 hours |
+| **Second Conviction**  | 14 hours | 9.5 hours |
+| **Third Conviction**  | 18 hours | 12 hours |
+
+### Article IV-3 Blackmail
+
+1. Guilty is a person who forcibly demands information or goods from a third party.
+2. Guilty is a person who forcibly forces or demands an action from a third party.
+
+|   | **Jail Time**  |
+|---|---|
+|  **First Conviction** | 3 hours |
+| **Second Conviction**  | 5 hours |
+| **Third Conviction**  | 8 hours |
