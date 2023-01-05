@@ -74,32 +74,9 @@
 | **Second Conviction**  | 10 hours |
 | **Third Conviction**  | 13 hours |
 
-## Title III - Other
+## Title III - Property Crimes
 
-### Article III-1 Failure to comply with an order or demand
-
-1. Guilty is a person who willfully fails to comply with an order or demand issued by an officer.
-2. Guilty is a person who deliberately obstructs an officer in the performance thereof.
-
-|   | **Jail Time**  |
-|---|---|
-|  **First Conviction** | 3 hours |
-| **Second Conviction**  | 5 hours |
-| **Third Conviction**  | 8 hours |
-
-### Article III-2 Entering forbidden domain
-
-1. Guilty is a person who, without being entitled to do so, walks or drives over someone else's land, the access of which is apparently prohibited by the person entitled to it.
-
-|   | **Jail Time**  |
-|---|---|
-|  **First Conviction** | 1 hours |
-| **Second Conviction**  | 3 hours |
-| **Third Conviction**  | 6 hours |
-
-## Title IV - Property Crimes
-
-### Article IV-1 Theft
+### Article III-1 Theft
 
 1. Guilty is a person who takes away a good or vehicle without permission or having any right to do so.
 2. In the case of an attempted theft, the maximum sentence to be imposed is 33% of the full sentence.
@@ -110,7 +87,7 @@
 | **Second Conviction**  | 6 hours | 4 hours |
 | **Third Conviction**  | 10 hours | 7 hours |
 
-### Article IV-2 Theft with violence
+### Article III-2 Theft with violence
 
 1. Guilty is a person who takes away a good without permission or having any right to do so, using violence in any form.
 2. Said violence was used during preparation, theft, or escape.
@@ -122,7 +99,7 @@
 | **Second Conviction**  | 14 hours | 9.5 hours |
 | **Third Conviction**  | 18 hours | 12 hours |
 
-### Article IV-3 Blackmail
+### Article III-3 Blackmail
 
 1. Guilty is a person who forcibly demands information or goods from a third party.
 2. Guilty is a person who forcibly forces or demands an action from a third party.
@@ -132,3 +109,26 @@
 |  **First Conviction** | 3 hours |
 | **Second Conviction**  | 5 hours |
 | **Third Conviction**  | 8 hours |
+
+## Title IV - Other
+
+### Article IV-1 Failure to comply with an order or demand
+
+1. Guilty is a person who willfully fails to comply with an order or demand issued by an officer.
+2. Guilty is a person who deliberately obstructs an officer in the performance thereof.
+
+|   | **Jail Time**  |
+|---|---|
+|  **First Conviction** | 3 hours |
+| **Second Conviction**  | 5 hours |
+| **Third Conviction**  | 8 hours |
+
+### Article IV-2 Entering forbidden domain
+
+1. Guilty is a person who, without being entitled to do so, walks or drives over someone else's land, the access of which is apparently prohibited by the person entitled to it.
+
+|   | **Jail Time**  |
+|---|---|
+|  **First Conviction** | 1 hours |
+| **Second Conviction**  | 3 hours |
+| **Third Conviction**  | 6 hours |
