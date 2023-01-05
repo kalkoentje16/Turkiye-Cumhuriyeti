@@ -39,10 +39,10 @@
 | **Second Conviction**  | 4 hours |
 | **Third Conviction**  | 6 hours |
 
-### Acticle I-2 Threatening
+### Acticle I-2 Threat
 
 1. Guilty is a person who threatens with violent content or criminal character against a person or property.
-2. If the victim is an officer on duty, the sentence is increased by 33%.
+2. If the victim is an officer, the sentence is increased by 33%.
 
 |   | **Jail Time**  | **+33%** |
 |---|---|---|
@@ -53,7 +53,7 @@
 ### Article I-3 Murder
 
 1. Guilty is a person who deliberately takes a person's life. 
-2. If the victim is an officer on duty, the sentence is increased by 33%.
+2. If the victim is an officer, the sentence is increased by 33%.
 3. For attempted murder, the sentence is reduced by 33%.
 
 |   | **Jail Time**  | **+33%** | **-33%** |
@@ -78,8 +78,8 @@
 
 ### Article III-1 Failure to comply with an order or demand
 
-1. Guilty is a person who willfully fails to comply with an order or demand issued by an officer on duty.
-2. Guilty is a person who deliberately obstructs an officer on duty in the performance thereof.
+1. Guilty is a person who willfully fails to comply with an order or demand issued by an officer.
+2. Guilty is a person who deliberately obstructs an officer in the performance thereof.
 
 |   | **Jail Time**  |
 |---|---|
