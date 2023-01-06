@@ -111,47 +111,9 @@
 | **Second Conviction**  | 5 hours |
 | **Third Conviction**  | 8 hours |
 
-## Title IV - Traffic Offences
+## Title IV - Other
 
-### Artivle IV-1 Article IV-1 Danger / hindrance without accident
-
-1. Guilty is a person who behaves in traffic in such a way that there is danger or (possible) hinderance on the public road.
-
-|   | **Jail Time**  |
-|---|---|
-|  **First Conviction** | 1 hours |
-| **Second Conviction**  | 2 hours |
-| **Third Conviction**  | 4 hours |
-
-### Article IV-2 Intentionally causing serious danger or hindrance
-
-1. It is prohibited for anyone to intentionally behave in traffic in such a way that the traffic rules are seriously violated, if this is likely to endanger the life or serious physical injury of another person.
-2. The following behaviors can be regarded as such traffic behaviour:
-    * Dangerous overtaking
-    * Exceeding the maximum speed set pursuant to this law
-    * Driving very close behind another vehicle
-    * Driving through a red light
-    * Driving against the direction of traffic
-
-|   | **Jail Time**  |
-|---|---|
-|  **First Conviction** | 4 hours |
-| **Second Conviction**  | 7 hours |
-| **Third Conviction**  | 11 hours |
-
-### Article IV-3 Leaving scene of traffic accident
-
-1. Guilty is a person who leaves a scene of a traffic accident whether or not he or she was guilty of causing it.
-
-|   | **Jail Time**  |
-|---|---|
-|  **First Conviction** | 1 hours |
-| **Second Conviction**  | 3 hours |
-| **Third Conviction**  | 6 hours |
-
-## Title V - Other
-
-### Article V-1 Failure to comply with an order or demand
+### Article IV-1 Failure to comply with an order or demand
 
 1. Guilty is a person who willfully fails to comply with an order or demand issued by an officer.
 2. Guilty is a person who deliberately obstructs an officer in the performance thereof.
@@ -162,7 +124,7 @@
 | **Second Conviction**  | 5 hours |
 | **Third Conviction**  | 8 hours |
 
-### Article V-2 Entering forbidden domain
+### Article IV-2 Entering forbidden domain
 
 1. Guilty is a person who, without being entitled to do so, walks or drives over someone else's land, the access of which is apparently prohibited by the person entitled to it.
 
